@@ -16,6 +16,7 @@
 PRODUCT_PACKAGES += \
     arcore \
     CarrierServices \
+    CarrierSettings \
     CarrierSetup \
     CNEService \
     ConnMO \

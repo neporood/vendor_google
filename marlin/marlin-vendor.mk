@@ -14,7 +14,6 @@
 
 # Prebuilt APKs
 PRODUCT_PACKAGES += \
-    arcore \
     CarrierServices \
     CarrierSettings \
     CarrierSetup \
@@ -23,7 +22,6 @@ PRODUCT_PACKAGES += \
     DCMO \
     DiagMon \
     DMService \
-    GCS \
     HardwareInfo \
     HotwordEnrollmentOKGoogleWCD9335 \
     HotwordEnrollmentXGoogleWCD9335 \
